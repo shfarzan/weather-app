@@ -1,0 +1,33 @@
+h1 {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: #d99a12;
+}
+li {
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  color: rgb(8, 11, 72);
+}
+.app {
+  border: 3px solid #3d84e0;
+  padding: 15px;
+  margin: 20px auto;
+  border-radius: 30px;
+  max-width: 600px;
+  background-color: rgba(85, 164, 221, 0.455);
+}
+.temperature {
+  color: #d99a12;
+  font-size: 64px;
+  font-weight: 400;
+  line-height: 1;
+  position: relative;
+  top: 55px;
+  left: 10px;
+}
+.units {
+  font-size: 60px;
+  position: relative;
+  top: -20px;
+  left: 90px;
+  color: #0c3871;
+}
